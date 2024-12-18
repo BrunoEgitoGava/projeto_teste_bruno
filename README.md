@@ -49,10 +49,16 @@ O intuito deste projeto é identificar os principais causas e condições assosc
     conda env create -f > ambiente.yml --name diabetes
     ```
 
-## um pouco mais sobre a base
+## Um pouco mais sobre a base
 
 [Clique aqui](referencias/01_dicionario_de_dados.md) para ver o dicionario de dados
 
+## Considerações iniciais
+
+Inicialmente foi realizada uma análise na base de dados a fim de conhecer melhor como os dados estão apresentandos, e também para verificar a existência de incoerências, buscando a forma mais adequada para tratá-los.
+
+Os comentários estão descritos no arquivo [Tratando a base](noteboosk/01-BESG-tratando_a_base.ipynb)
+
 ## Resumo dos principais resultados
 
-A FAZER
+Os resultados estão apresentados arquivo [EDA](noteboosk/02-BESG-analise_estatistica.ipynb)
