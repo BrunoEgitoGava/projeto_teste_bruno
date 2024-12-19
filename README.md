@@ -57,8 +57,10 @@ O intuito deste projeto é identificar os principais causas e condições assosc
 
 Inicialmente foi realizada uma análise na base de dados a fim de conhecer melhor como os dados estão apresentandos, e também para verificar a existência de incoerências, buscando a forma mais adequada para tratá-los.
 
-Os comentários estão descritos no arquivo [Tratando a base](noteboosk/01-BESG-tratando_a_base.ipynb)
+Os comentários estão descritos no arquivo [Tratando a base](notebooks/01-BESG-tratando_a_base.ipynb)
 
 ## Resumo dos principais resultados
 
-Os resultados estão apresentados arquivo [EDA](noteboosk/02-BESG-analise_estatistica.ipynb)
+A partir da base de dados já tratada, a análise dos dados foi realizada buscando traçar um perfil das pessoas que apresentam possuem Diabetes. Além disso buscou-se a identificação de fatores atenuantes dessa doença, podendo servir de base para um programa de prevenção à diabetes.
+
+Os resultados estão apresentados arquivo [EDA](notebooks/02-BESG-analise_estatistica.ipynb)
